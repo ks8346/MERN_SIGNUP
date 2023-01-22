@@ -24,11 +24,6 @@ Minimalistic, ready-to-use component for Sessions based Login and Sign-Up using 
 
 ## Quick Start
 
-Clone the repository
-
-```
- https://github.com/shawn-dsilva/mern-login-signup-component.git
-```
 
 Install packages for Node backend
 
@@ -45,7 +40,6 @@ Install packages for React client
 ```
 To Test Locally
 
-remove the line ```"homepage": "https://demos.shawndsilva.com/sessions-auth-app",```
 from ```client/package.json```
 remove ```basename="/sessions-auth-app"```
 from ```client/src/index.js```

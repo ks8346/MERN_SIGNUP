@@ -10,15 +10,10 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shawn-dsilva/mern-login-signup-component.git"
+    "type": "git"
   },
   "author": "Kartik",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shawn-dsilva/mern-login-signup-component/issues"
-  },
-  "homepage": "https://github.com/shawn-dsilva/mern-login-signup-component#readme",
   "dependencies": {
     "@hapi/joi": "^16.1.8",
     "bcryptjs": "^2.4.3",
